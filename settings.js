@@ -30,7 +30,7 @@ global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
 global.packname = "Sticker By"
 global.author = "🦄드림 가이 Xeon\n\n+2348162195613"
 global.creator = "2348162195613@s.whatsapp.net"
-global.xprefix = ','
+global.xprefix = '.'
 global.premium = ["2348162195613"] // Premium User
 global.hituet = 0
 
